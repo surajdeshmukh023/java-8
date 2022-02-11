@@ -1,9 +1,9 @@
-package com.learning.java8;
+package com.learnJava;
 
 public class Runner {
 
 	public static void main(String[] args) {
-		System.out.println("Hi");
+		System.out.println("test");
 
 	}
 
